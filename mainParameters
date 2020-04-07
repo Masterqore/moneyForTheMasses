@@ -1,0 +1,7 @@
+Supply and distribution
+  Is there a max supply, or not?
+  Will there be an initial air drop to kick off circulation?
+  Will block awards be fixed, or something else?
+  Will there be a transaction fee? I think yes, but it must be very small, but great enough to prevent spam transactions flooding the system
+  I believe we must craft a set of rules which are voluntary. i.e. behaviour must be either disallowed by the system or dictated by game theory. Arbitary rules that require policing must be avoided to the greatest extent.
+  There should be nobody able to mess with the rules once they are set, but there must be some mechanism which allows for some kind of consensus rule changes. Somewhat akin to hard forks, but without all the mess of split blockchains and communities.
